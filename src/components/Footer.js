@@ -38,7 +38,7 @@ function Footer() {
           <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
             <li className="nav-item">
               <a
-                className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
+                className="px-3 py-2 flex items-center text-xl uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
                 href="/"
               >
                 <i className="fab fa-facebook-square text-lg leading-lg text-white opacity-75"></i>
@@ -47,7 +47,7 @@ function Footer() {
             </li>
             <li className="nav-item">
               <a
-                className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
+                className="px-3 py-2 flex items-center text-xl uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
                 href="/advice"
               >
                 <i className="fab fa-twitter text-lg leading-lg text-white opacity-75"></i>
@@ -56,7 +56,7 @@ function Footer() {
             </li>
             <li className="nav-item">
               <a
-                className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
+                className="px-3 py-2 flex items-center text-xl uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
                 href="/audits"
               >
                 <i className="fab fa-pinterest text-lg leading-lg text-white opacity-75"></i>
@@ -65,7 +65,7 @@ function Footer() {
             </li>
             <li className="nav-item">
               <a
-                className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
+                className="px-3 py-2 flex items-center text-xl uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
                 href="/formation"
               >
                 <i className="fab fa-pinterest text-lg leading-lg text-white opacity-75"></i>
@@ -74,7 +74,7 @@ function Footer() {
             </li>
             <li className="nav-item">
               <a
-                className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
+                className="px-3 py-2 flex items-center text-xl uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
                 href="/team"
               >
                 <i className="fab fa-pinterest text-lg leading-lg text-white opacity-75"></i>
@@ -83,7 +83,7 @@ function Footer() {
             </li>
             <li className="nav-item">
               <a
-                className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
+                className="px-3 py-2 flex items-center text-xl uppercase font-bold leading-snug text-white hover:bg-third hover:text-primary"
                 href="/contactus"
               >
                 <i className="fab fa-pinterest text-lg leading-lg text-white opacity-75"></i>
