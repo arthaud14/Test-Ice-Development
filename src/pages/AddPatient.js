@@ -1,17 +1,5 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
-import React, { useState } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Sidebar from "../components/Sidebar";
-import {
-  faEnvelope,
-  faFolderPlus,
-  faHandshakeSimple,
-  faHourglass,
-  faLocationPin,
-  faPhone,
-  faPlus,
-  faUserPlus,
-} from "@fortawesome/free-solid-svg-icons";
+import React from "react";
+
 
 const AddPatient = () => {
   return (

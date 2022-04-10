@@ -9,9 +9,6 @@ import Sidebar from "./components/Sidebar";
 import Arrangement from "./pages/Arrangement";
 import Contactus from "./pages/Contactus";
 
-
-
-
 function App() {
   return (
     <Router>
@@ -22,11 +19,8 @@ function App() {
         <Route exact path="/addpatient" element={<AddPatient />} />
         <Route exact path="/arrangement" element={<Arrangement />} />
         <Route exact path="/contactus" element={<Contactus />} />
-
-        
-
-
       </Routes>
+      
       <Footer />
     </Router>
   );

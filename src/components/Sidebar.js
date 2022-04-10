@@ -9,7 +9,7 @@ function Sidebar() {
   return (
     <div
       className="w-2/12 h-full bg-primary absolute invisible lg:visible"
-      id="sidenavSecExample"
+      id="sidenav"
     >
       <div className="pt-10 pb-2 px-6"></div>
       <ul className="relative px-1">
